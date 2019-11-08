@@ -1,3 +1,5 @@
+## UPDATE (November 08, 2019): This repository is moved to https://github.com/BilkentInformationRetrievalGroup/MilliyetCollectionTREC
+
 ## IRCollection
 
 If you use this dataset, please cite the following paper:
